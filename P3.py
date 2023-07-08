@@ -90,4 +90,6 @@ def teste():
         main()
         print()
 
-teste()
+# teste()
+
+main()
